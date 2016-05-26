@@ -12,5 +12,5 @@ Test demonstration of the classic genetic algorithm
 
 INFO:
 Классический генетический алгоритм [Link](http://www.aiportal.ru/articles/genetic-algorithms/classic-alg-part1.html).
-Genetic algorithm [Link](Genetic algorithm).
+Genetic algorithm [Link](https://en.wikipedia.org/wiki/Genetic_algorithm).
 
