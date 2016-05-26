@@ -12,4 +12,5 @@ Test demonstration of the classic genetic algorithm
 
 INFO:
 en.wikipedia.org/wiki/Genetic_algorithm
+
 www.aiportal.ru/articles/genetic-algorithms/classic-alg-part1.html
