@@ -11,5 +11,6 @@ Test demonstration of the classic genetic algorithm
   8. выбор «наилучшей» хромосомы.
 
 INFO:
-en.wikipedia.org/wiki/Genetic_algorithm
-www.aiportal.ru/articles/genetic-algorithms/classic-alg-part1.html
+Классический генетический алгоритм [Link](http://www.aiportal.ru/articles/genetic-algorithms/classic-alg-part1.html).
+Genetic algorithm [Link](Genetic algorithm).
+
